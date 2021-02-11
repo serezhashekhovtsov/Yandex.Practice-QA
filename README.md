@@ -2,6 +2,8 @@
 
 Курс **Яндекс Практикум** по специальности инженер по тестированию - https://praktikum.yandex.ru/qa-engineer/
 
+[![логотип](https://github.com/serezhashekhovtsov/Yandex.Practice-QA/blob/main/Projects/logo.jpg "Лого")](https://praktikum.yandex.ru/qa-engineer/)
+
 ### Спринт 1 
 
 Введение в тест-дизайн и тест-анализ. 
